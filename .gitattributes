@@ -1,0 +1,11 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+<<<<<<< HEAD
+<<<<<<< HEAD
+master
+=======
+branch#2
+>>>>>>> branch#2
+=======
+123
+>>>>>>> branch#1
